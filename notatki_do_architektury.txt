@@ -1,0 +1,5 @@
+- u¿ycie Timera - kontroler; timer jako Functional Global, sprawdzany np. co 100 ms, z czêstoœci¹ z jak¹ dzia³a kolejka (nie czêœciej, bo miêdzy dwoma Check Time moze przyjsæ jeszcze coœ innego i to zostanie obs³u¿one, ale to przecie¿ dobrze)
+- przesy³anie danych z Sensora - Controller Queue
+- struktura danych kontrolera: klaster UI, klster Display, Sensor
+- w Dislay raczej tylko update
+- dodatkowy stan, przed wszystkimi, po interakcji u¿ytkownika z front panelem
