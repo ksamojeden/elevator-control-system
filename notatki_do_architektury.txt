@@ -3,3 +3,15 @@
 - struktura danych kontrolera: klaster UI, klster Display, Sensor
 - w Dislay raczej tylko update
 - dodatkowy stan, przed wszystkimi, po interakcji u¿ytkownika z front panelem
+
+- po zakonczeniu odliczania Open Door w timerze automatycznie przechodzimy do Close Door (ustawiamy Time to Elapse i Timed Action)
+- No Request Remaining - symulacja Requestu z pierwszego piêtra, czyli zmieniamy wartoœci REQUEST? na TRUE i Floor Selection na 1; nastêpnie w³asn¹ kolejk¹ wysy³amy mu wiadomoœæ, ¿e ma przejœæ do Start and Move
+- NR1B - je¿eli bêdzie jakaœ interakcja z konsoli, to ta sztuczna jedynka zostanie wykasowana, bo na UC ma wartoœæ FALSE i zostanie przepisana
+- w funkcji Init.vi ustawienie sta³ych czasowych 
+- inicjalizacja shift rejestru: wartoœci odpowiadaj¹cym piêtrom w strukturze danych
+
+
+TIMER
+- OPEN AND CLOSE:
+	po otwarciu autoamtyczne zamkniecie 
+	OC5. 
