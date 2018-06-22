@@ -1,0 +1,9 @@
+22.06.2018 10:55	5001 Sensor Interface IO Error in Sensor Interface.vi
+22.06.2018 10:57	5001 Sensor Interface IO Error in Sensor Interface.vi
+22.06.2018 11:15	1 Dequeue Element in Dequeue Display Element.vi->Display Console.vi in Error Log.viDisplay Console.vi
+22.06.2018 11:15	1 Enqueue Element in Enqueue Display Element.vi->Display Console.vi in Error Log.viDisplay Console.vi
+22.06.2018 11:16	5002 Display Console Error in Error Log.viDisplay Console.viMain.vi
+22.06.2018 11:21	5002 Display Console Error in Error Log.viDisplay Console.viMain.vi
+22.06.2018 11:39	5002 Display Console Error in Error Log.viDisplay Console.viMain.vi
+22.06.2018 11:39	5005 User Console Error in Error Log.viUser Console.viMain.vi
+22.06.2018 11:39	5004 Process Step Error in Error Log.viUser Console.viMain.vi
